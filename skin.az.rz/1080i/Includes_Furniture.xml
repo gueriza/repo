@@ -1135,7 +1135,7 @@
                 <textcolor>Dark2</textcolor>
                 <align>right</align>
                 <width>50%</width>
-                <label>$INFO[System.Date]</label>
+                <label>$INFO[System.Date(ddd)]$COMMA $INFO[System.Date(dd mmm yyyy)]</label>
             </control>
             <control type="label">
                 <centertop>92</centertop>

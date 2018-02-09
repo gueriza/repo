@@ -1,7 +1,8 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
     id="skin.az.rz"
-    version="1.3.14"
+    version="1.3.15"
     name="AZ:RZ"
     provider-name="jurialmunkey, riza">
     <requires>
@@ -24,7 +25,7 @@
         <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Clean, minimal, elegant, simple, light.</summary>
+        <summary lang="en">Clean, minimal.</summary>
         <description lang="en">AZ: RZ is a mod of the Arctic skin created by jurialmunkey. Simple, clean and minimalistic.</description>
         <platform>all</platform>
         <license>Creative Commons Non Commercial 3.0 License</license>
