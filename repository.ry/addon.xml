@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<addon id="repository.ry" name="Ry Repo" version="1.0" provider-name="RY">
+    <extension point="xbmc.addon.repository" name="Ry Repository">
+        <info compressed="false">https://raw.githubusercontent.com/gueriza/repo/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/gueriza/repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/gueriza/repo/raw/master/zips</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary></summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
