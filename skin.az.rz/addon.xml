@@ -2,7 +2,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
     id="skin.az.rz"
+<<<<<<< HEAD
     version="1.3.18"
+=======
+    version="1.3.17"
+>>>>>>> ec20dc72008fae00fa017f3405e06ae083603982
     name="AZ:RZ"
     provider-name="jurialmunkey, riza">
     <requires>
